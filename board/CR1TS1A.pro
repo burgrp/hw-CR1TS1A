@@ -1,4 +1,4 @@
-update=Fri 22 Sep 2017 02:09:49 AM CEST
+update=Fri 02 Feb 2018 07:06:50 PM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../../hw-lib
+LibDir=../../hw-kicad
 [eeschema/libraries]
 LibName1=CR1TS1A-rescue
 LibName2=power
