@@ -1,0 +1,24 @@
+Id;Quantity;Designation;Designator;;;;Supplier and ref
+1;1;USB_OTG;P1;;;;
+2;1;HLK-PM01;U2;;;;
+3;1;ESP-12;U4;;;;
+4;1;RELAY_2;K1;;;;
+5;2;CONN_01X03;IN1,OUT1;;;;
+6;1;Conn_01x03;TS1;;;;
+7;1;OSHW-Logo_11.4x12mm_SilkScreen;REF***;;;;
+8;1;1u;C1;;;;
+9;1;22n;C2;;;;
+10;3;47u;C3,C8,C9;;;;
+11;2;100n;C4,C7;;;;
+12;2;22p;C5,C6;;;;
+13;2;BAT54C;D1,D3;;;;
+14;1;LED;D2;;;;
+15;1;Ferrite bead;L1;;;;
+16;3;MMBT3904;Q1,Q2,Q3;;;;
+17;3;1k5;R1,R3,R4;;;;
+18;1;270R;R2;;;;
+19;7;10k;R5,R6,R7,R8,R9,R10,R11;;;;
+20;1;4k7;R12;;;;
+21;1;RT9193;U1;;;;
+22;1;CH340G;U5;;;;
+23;1;12MHz;X1;;;;
